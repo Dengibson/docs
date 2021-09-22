@@ -34,7 +34,7 @@ Billing managers can:
 
 In addition, all billing managers will receive billing receipts by email on the organization's billing date.
 
-Billing managers **are not** able to:
+Billing managers **are not**80000000 able to:
 
 - Create or access repositories in your organizations
 - See private members of your organization
